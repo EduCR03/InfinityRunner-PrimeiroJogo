@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour
     public void RestartGame()
     {
         //chamando a unica fase que tem o jogo, reiniciando ele
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 
     public void UpdateScoreText()
