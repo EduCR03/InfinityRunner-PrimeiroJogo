@@ -1,2 +1,2 @@
 # InfinityRunner-PrimeiroJogo
- Jogo projeto C206
+ Projeto-C206 e C207
